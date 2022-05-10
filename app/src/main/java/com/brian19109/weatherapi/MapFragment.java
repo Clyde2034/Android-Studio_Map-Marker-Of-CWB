@@ -74,7 +74,7 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
     private OkHttpClient client = new OkHttpClient().newBuilder()
             .addInterceptor(new HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BASIC))
             .build();
-    String CWB_Auth = "CWB-DC98BC30-EA33-4843-8569-8DDC20B6E646";
+    String CWB_Auth = "CWB-DC98BC30-EA33-4843-8569-8DDC20B6E646";//KEY
     private String Arrival_Time_rangeMax = "";
     private String Arrival_Time = "";
     private String Current_Time="";

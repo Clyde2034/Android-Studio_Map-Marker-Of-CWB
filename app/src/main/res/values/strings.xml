@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">WeatherAPI</string>
     <string name="api_key">AIzaSyC30522yFCSX2hRN8GZfOtxM0t_2mpOcvI</string>
+    <!--    MAP_KEY-->
 </resources>
