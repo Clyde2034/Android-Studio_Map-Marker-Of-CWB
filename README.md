@@ -59,6 +59,7 @@ build.gradle(Module:(Project Name.app)) {
 ```
 
 ## The project is complex than normal small project, so decide to using texx to dexcription what the project is doing and every file purpose.
+# CWB_KEY and Map API_KEY must be replace.
 >UI
 >>activity_main.xml:This activity is first create when start the application, and check the permission.  
 >>fragment_map.xml:Embeded the map to the fragment and some ui element.  
