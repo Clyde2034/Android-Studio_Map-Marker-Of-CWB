@@ -1,4 +1,4 @@
-# Android-Studio-MapMarker-of-CWB
+# Android Studio-Map Marker of CWB
 This project is fetch data from Taiwan CWB with API，after that using JSON parser the data and create marker on the map.
 
 >API Require
